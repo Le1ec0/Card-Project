@@ -11,16 +11,22 @@ const styles = StyleSheet.create({
     fontSize: 30,
     color: "black",
     marginBottom: 10,
+    alignItems: "center",
+    justifyContent: "center",
   },
   caloriesInfo: {
     fontSize: 20,
-    color: "black",
+    color: "gray",
     marginBottom: 10,
+    alignItems: "center",
+    justifyContent: "center",
   },
   priceInfo: {
     fontSize: 20,
     color: "yellow",
     marginBottom: 10,
+    alignItems: "center",
+    justifyContent: "center",
   },
 });
 
