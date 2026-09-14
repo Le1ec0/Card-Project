@@ -1,5 +1,5 @@
 import { View, Text } from "react-native";
-import { Card } from "react-native-elements";
+import { Card } from "@rneui/themed";
 import styles from "./AppStyle.js";
 
 export default function App() {
